@@ -1,0 +1,26 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+# Compiled bytecode
+*.class
+*.jar
+
+# IntelliJ IDEA files
+.idea/
+
+# Gradle files
+build/
+.gradle/
+
+# Kotlin-specific
+*.iml
+*.kotlin_module
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
